@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7F50&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maria+Luiza;I'm+17+years+old;I'm+from+Brazil;Studying+Systems+Development+at+Senai+Jandira;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=4Mariza&show_icons=true&count_private=true&hide_border=true&title_color=D2691E&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Maria Luiza github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=4Mariza&show_icons=true&count_private=true&hide_border=true&title_color=D2691E&icon_color=D2691E&text_color=c9d1d9&bg_color=0d1117" alt="Maria Luiza github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Mariza&layout=compact&hide_border=true&title_color=D2691E&text_color=ffffff&bg_color=0d1117" />
 </div>
 
