@@ -16,7 +16,7 @@
  
  ### ABOUT ME:
 
-- I'm 17 years old. 🌻
+- I'm 18 years old. 🌻
 
 - Studying Systems Development at Senai Jandira 🖥️
 
